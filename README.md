@@ -8,6 +8,6 @@ To use this program, use the furnished Microsoft Excel file, fill it in, then dr
 
 Pour utiliser ce programme, remplissez le fichier Microsoft Excel fourni, puis faites-le glisser dans la fenêtre-console hébergeant le logiciel. Une fois le nom choisi, le fichier GIFT devrait de trouver dans C:\Users\%username%\Desktop\Fichiers_Mooddle_GIFT\{nomDuFichier}.
 
-#Contact : 
+# Contact :
 
 Paul-Henri Andrieu | paul-henri@phandrieu.fr | +33643822294
