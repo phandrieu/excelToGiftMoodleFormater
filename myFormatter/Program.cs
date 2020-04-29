@@ -1,4 +1,7 @@
-﻿using System;
+/*
+First public verison published on GitHub by Paul-Henri Andrieu (@phandrieu) on 04.29.2020
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
